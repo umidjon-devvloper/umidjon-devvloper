@@ -110,17 +110,17 @@ REST API · GraphQL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umidjon-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidjon-developer&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=umidjon-devvloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidjon-devvloper&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon-developer&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon-devvloper&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umidjon-developer&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umidjon-devvloper&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <br/>
@@ -160,7 +160,7 @@ I'm always open to new projects, collaborations, and exciting opportunities.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=umidjon-developer&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=umidjon-devvloper&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <i>"Clean code. Fast apps. Real results."</i>
 
