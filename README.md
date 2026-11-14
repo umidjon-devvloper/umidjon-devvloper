@@ -1,158 +1,249 @@
+<!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Umidjon%20Gafforov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:6C63FF,100:00D4FF&height=260&section=header&text=Umidjon%20Gafforov&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Product%20Engineer&descAlignY=60&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" alt="header"/>
 
 <a href="https://umidjon.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Mobile+Developer;React+%2F+Next.js+%2F+Node.js+%2F+React+Native;Building+fast%2C+scalable+products;Based+in+Tashkent+%C2%B7+Remote-friendly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=8B85FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%E2%9A%A1+Full+Stack+%26+Mobile+Developer;%F0%9F%9A%80+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+React+Native;%F0%9F%8E%A8+Premium+UI%2FUX+that+converts;%F0%9F%8C%8D+Tashkent+%E2%86%92+Worldwide+%C2%B7+Remote-friendly;%F0%9F%92%BC+Open+for+freelance+projects" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<a href="https://umidjon.dev"><img src="https://img.shields.io/badge/Portfolio-umidjon.dev-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F0C29" /></a>
+<a href="mailto:umidjongafforov844@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://www.linkedin.com/in/umidjon-gafforov-8b151b325"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://t.me/umidjon_developer"><img src="https://img.shields.io/badge/Telegram-DM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://instagram.com/umidjon_developer"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F0C29" /></a>
 
 <br/>
 
-<a href="https://umidjon.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-umidjon.dev-6C63FF?style=for-the-badge" /></a>
-<a href="mailto:umidjongafforov844@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/umidjon-gafforov-8b151b325"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/umidjon_developer"><img src="https://img.shields.io/badge/Telegram-Message_me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://instagram.com/umidjon_developer"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=umidjon-devvloper&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/umidjon-devvloper?label=FOLLOWERS&style=flat-square&color=00D4FF&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/STATUS-Available_for_work-22C55E?style=flat-square&labelColor=0F0C29" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 👋 About Me
+<!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
 
-I'm a **Full Stack & Mobile Developer** based in Tashkent, Uzbekistan, with **3+ years of experience** building fast, scalable, and beautifully designed web and mobile applications. I work with startups and businesses across Uzbekistan and worldwide — from landing pages to full production-ready platforms.
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RlZ3Rqb3JkcWl0d2RkcTNzM3RvbzRnY3E0b3B5NzE4dXRjM3BtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
 
-- 🔭 Currently building freelance client projects (web & mobile)
-- 🌱 Constantly deepening my backend & system design skills
-- 💡 Passionate about clean architecture, performance, and premium UI/UX
-- 🌍 Open to remote freelance work — worldwide
-- ⚡ Fun fact: I've taken part in AI hackathons and a startup founders camp (UZ Combinator)
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<br/>
+I'm a **Full Stack & Mobile Developer** from **Tashkent, Uzbekistan 🇺🇿** with **3+ years** of turning ideas into fast, scalable and beautifully crafted products — from high-converting landing pages to production-grade platforms used by real customers.
+
+- 🔭 Building freelance **web & mobile** products for clients worldwide
+- 🧠 Deepening **backend architecture** & **system design**
+- 🎨 Obsessed with **clean code**, **performance** & **premium UI/UX**
+- 🏆 AI hackathons participant · **UZ Combinator** founders camp alumni
+- 💬 Speaks **Uzbek · Russian · English**
+- ⚡ Replies within **24 hours**
+
+</td>
+<td width="42%" valign="top">
+
+```ts
+const umidjon = {
+  role:      "Full Stack & Mobile Dev",
+  location:  "Tashkent 🇺🇿 · Remote 🌍",
+  experience:"3+ years",
+  frontend:  ["React", "Next.js", "Vue", "Nuxt"],
+  mobile:    ["React Native", "Expo"],
+  backend:   ["Node.js", "NestJS", "FastAPI"],
+  databases: ["PostgreSQL", "MongoDB", "Supabase"],
+  motto:     "Clean code. Fast apps. Real results.",
+  available: true,
+};
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════  WHAT I BUILD  ═══════════════════════════════ -->
 
 ## 🚀 What I Build
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
-
-### 🌐 Web Apps
-React · Next.js · Nuxt.js  
-Vue.js · Tailwind CSS  
-Bootstrap · Three.js
-
+<td width="33%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue&theme=dark" height="44"/>
+<h3>🌐 Web Apps</h3>
+<sub>SaaS dashboards, marketplaces, landing pages & business sites — SEO-ready, blazing fast, pixel-perfect.</sub>
 </td>
-<td width="33%" valign="top">
-
-### 📱 Mobile Apps
-React Native (iOS & Android)  
-Cross-platform, Expo  
-App Store & Play Store ready
-
+<td width="33%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=react,androidstudio,apple&theme=dark" height="44"/>
+<h3>📱 Mobile Apps</h3>
+<sub>Cross-platform iOS & Android apps with React Native / Expo — App Store & Play Store ready.</sub>
 </td>
-<td width="33%" valign="top">
-
-### ⚙️ Backend & API
-Node.js · NestJS · Express  
-FastAPI · Django · Python  
-REST API · GraphQL
-
+<td width="33%" align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi&theme=dark" height="44"/>
+<h3>⚙️ Backend & APIs</h3>
+<sub>Scalable REST & GraphQL APIs, auth, payments, real-time & cloud deployment.</sub>
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════  TECH STACK  ═══════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,vue,tailwind,bootstrap,nodejs,express,nestjs,py,django,fastapi,mongodb,mysql,postgres,supabase,firebase,docker,netlify,git,github,figma,electron,threejs,redux,sass,php,tensorflow,ubuntu&theme=dark)
+<table>
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,redux,sass,bootstrap,threejs&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Mobile & Desktop</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,electron,androidstudio&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,graphql&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,redis&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>DevOps & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,vercel,netlify,git,github,linux,ubuntu,figma,vscode&theme=dark&perline=10" /></td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,py&theme=dark&perline=10" /></td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
 
 ## 📌 Featured Projects
 
-> 🔗 See the full case-study list at **[umidjon.dev](https://umidjon.dev)**
+> ✨ Full case studies with screenshots & results → **[umidjon.dev](https://umidjon.dev)**
+
+<!-- TODO: replace "Project Name", descriptions, stacks and links with real ones.
+     Tip: add a screenshot per project → <img src="LINK_TO_SCREENSHOT" width="100%"/> at the top of each cell. -->
 
 <table width="100%">
 <tr>
-  <th align="left">Project</th>
-  <th align="left">Description</th>
-  <th align="left">Stack</th>
-  <th align="left">Link</th>
+<td width="50%" valign="top">
+
+### 🏷️ Project Name
+<sub>Booking platform serving **500+ users/month** with real-time availability & online payments.</sub>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<a href="#"><b>🔗 Live Demo</b></a> &nbsp;•&nbsp; <a href="#"><b>📂 Case Study</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Project Name
+<sub>Cross-platform mobile app on **iOS & Android** with push notifications & offline mode.</sub>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+<a href="#"><b>🍎 App Store</b></a> &nbsp;•&nbsp; <a href="#"><b>🤖 Play Store</b></a>
+
+</td>
 </tr>
 <tr>
-  <td><b>Project Name</b></td>
-  <td>One-line impact description (e.g. "Booking platform serving 500+ users/mo")</td>
-  <td>React · Node.js</td>
-  <td><a href="#">Live →</a></td>
-</tr>
-<tr>
-  <td><b>Project Name</b></td>
-  <td>One-line impact description</td>
-  <td>React Native</td>
-  <td><a href="#">Live →</a></td>
-</tr>
-<tr>
-  <td><b>Project Name</b></td>
-  <td>One-line impact description</td>
-  <td>Next.js · PostgreSQL</td>
-  <td><a href="#">Live →</a></td>
+<td width="50%" valign="top">
+
+### 🛒 Project Name
+<sub>E-commerce / SaaS platform with admin dashboard, analytics & **90+ Lighthouse** score.</sub>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+<a href="#"><b>🔗 Live Demo</b></a> &nbsp;•&nbsp; <a href="#"><b>📂 Case Study</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Project Name
+<sub>AI-powered tool built at a hackathon — from idea to working MVP in **48 hours**.</sub>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+
+<a href="#"><b>🔗 Live Demo</b></a> &nbsp;•&nbsp; <a href="#"><b>💻 Source</b></a>
+
+</td>
 </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════  STATS  ═══════════════════════════════ -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umidjon-devvloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidjon-devvloper&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=umidjon-devvloper&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=8B85FF&icon_color=00D4FF&text_color=E2E8F0&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidjon-devvloper&layout=compact&hide_border=true&bg_color=0F0C29&title_color=8B85FF&text_color=E2E8F0&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon-devvloper&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=umidjon-devvloper&hide_border=true&background=0F0C29&ring=6C63FF&fire=00D4FF&currStreakLabel=8B85FF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=1E1B4B" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=umidjon-devvloper&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umidjon-devvloper&bg_color=0F0C29&color=E2E8F0&line=6C63FF&point=00D4FF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
-<br/>
-
+<!-- 🐍 Contribution snake — generated by .github/workflows/snake.yml -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umidjon-devvloper&theme=tokyo-night&hide_border=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umidjon-devvloper/umidjon-devvloper/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umidjon-devvloper/umidjon-devvloper/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/umidjon-devvloper/umidjon-devvloper/output/github-snake-dark.svg" width="100%" />
+</picture>
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════  SERVICES  ═══════════════════════════════ -->
 
 ## 💼 Services
 
-| | Service |
-|---|---|
-| ✅ | Web application development (React / Next.js / Vue / Nuxt) |
-| ✅ | Mobile app development (React Native — iOS & Android) |
-| ✅ | Full stack projects (frontend + backend + deployment) |
-| ✅ | REST API & backend development (Node.js / NestJS / FastAPI) |
-| ✅ | Landing pages & business websites |
-| ✅ | Code review & technical consulting |
-
-<table>
-<tr><td><b>📍 Location</b></td><td>Tashkent, Uzbekistan (remote-friendly)</td></tr>
-<tr><td><b>🌍 Languages</b></td><td>Uzbek · Russian · English</td></tr>
-<tr><td><b>⏱️ Response time</b></td><td>Within 24 hours</td></tr>
-</table>
-
-<br/>
-
-## 🤝 Let's Work Together
-
-I'm always open to new projects, collaborations, and exciting opportunities.
-
 <div align="center">
 
-💬 **DM me on [Telegram](https://t.me/umidjon_developer) or [Instagram](https://instagram.com/umidjon_developer)**  
-📧 **[umidjongafforov844@gmail.com](mailto:umidjongafforov844@gmail.com)**  
-🌐 **[umidjon.dev](https://umidjon.dev)**
+| | Service | Stack |
+|:-:|:--|:--|
+| 🌐 | **Web Application Development** | React · Next.js · Vue · Nuxt |
+| 📱 | **Mobile App Development** | React Native · Expo (iOS & Android) |
+| 🧩 | **Full Stack Products** | Frontend + Backend + Deployment |
+| ⚙️ | **REST / GraphQL API Development** | Node.js · NestJS · FastAPI |
+| 🎯 | **Landing Pages & Business Websites** | SEO-optimized · High-converting |
+| 🔍 | **Code Review & Tech Consulting** | Architecture · Performance · Best practices |
 
 </div>
 
@@ -160,11 +251,40 @@ I'm always open to new projects, collaborations, and exciting opportunities.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=umidjon-devvloper&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+<table>
+<tr>
+<td align="center" width="200">📍<br/><b>Location</b><br/><sub>Tashkent, Uzbekistan</sub></td>
+<td align="center" width="200">🌍<br/><b>Work mode</b><br/><sub>Remote · Worldwide</sub></td>
+<td align="center" width="200">🗣️<br/><b>Languages</b><br/><sub>UZ · RU · EN</sub></td>
+<td align="center" width="200">⏱️<br/><b>Response</b><br/><sub>Within 24 hours</sub></td>
+</tr>
+</table>
 
-<i>"Clean code. Fast apps. Real results."</i>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════  CONTACT  ═══════════════════════════════ -->
+
+## 🤝 Let's Build Something Great
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Got+an+idea%3F+Let's+turn+it+into+a+product.;Startups+%C2%B7+Agencies+%C2%B7+Businesses+welcome." />
+
+<br/><br/>
+
+<a href="https://t.me/umidjon_developer"><img src="https://img.shields.io/badge/Start_a_project_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40"/></a>
+&nbsp;
+<a href="mailto:umidjongafforov844@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
+&nbsp;
+<a href="https://umidjon.dev"><img src="https://img.shields.io/badge/View_portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
+
+<br/><br/>
+
+<i>“Clean code. Fast apps. Real results.”</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C63FF,100:0F0C29&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
