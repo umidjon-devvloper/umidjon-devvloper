@@ -27,7 +27,7 @@
 
 <!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RlZ3Rqb3JkcWl0d2RkcTNzM3RvbzRnY3E0b3B5NzE4dXRjM3BtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
@@ -202,20 +202,16 @@ const umidjon = {
 
 ## 📊 GitHub Analytics
 
+<!-- Cards are generated daily by .github/workflows/stats.yml -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=umidjon-devvloper&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=8B85FF&icon_color=00D4FF&text_color=E2E8F0&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidjon-devvloper&layout=compact&hide_border=true&bg_color=0F0C29&title_color=8B85FF&text_color=E2E8F0&langs_count=8" />
+<img src="https://raw.githubusercontent.com/umidjon-devvloper/umidjon-devvloper/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=umidjon-devvloper&hide_border=true&background=0F0C29&ring=6C63FF&fire=00D4FF&currStreakLabel=8B85FF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=1E1B4B" />
+<img src="https://raw.githubusercontent.com/umidjon-devvloper/umidjon-devvloper/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/umidjon-devvloper/umidjon-devvloper/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=umidjon-devvloper&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umidjon-devvloper&bg_color=0F0C29&color=E2E8F0&line=6C63FF&point=00D4FF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://raw.githubusercontent.com/umidjon-devvloper/umidjon-devvloper/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/umidjon-devvloper/umidjon-devvloper/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 
 </div>
 
